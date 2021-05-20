@@ -6,7 +6,7 @@ namespace Github_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Pakistan");
         }
     }
 }
