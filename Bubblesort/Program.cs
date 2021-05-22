@@ -16,7 +16,6 @@ class GFG
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
                 }
-        
     }
 
     /* Prints the array */
@@ -33,7 +32,7 @@ class GFG
     // Driver method
     public static void Main()
     {
-        int[] arr = { 64, 34, 2, 12, 22, 11, 90 };
+        int[] arr = { 23,2, 1, 12, 7, 32, 11, 90 };
         bubbleSort(arr);
         Console.WriteLine("Sorted array");
         printArray(arr);
